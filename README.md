@@ -1,3 +1,5 @@
+<h1>The original eDEX-UI: https://github.com/GitSquared/edex-ui This is a remaster.</h1>
+
 <p align="center">
   <br>
   <img alt="Logo" src="media/logo.png">
